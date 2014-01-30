@@ -15,7 +15,7 @@ Features
 A few features that make this template unique
 
 * HTML is clean and fat-free, you will not find any useless code inside this template.
-* Responsive design, that's already a standard for new templates, so Magister is of course, well, responsive :)
+* Responsive design
 * Overral quality, worth to be premium template.
 
 
@@ -31,7 +31,4 @@ Credits
 -------
 * Design and development: **Sergey Pozhilov** - http://pozhilov.com
 * Photos used in template: **Unsplash** - http://unsplash.com
-
-Links
--------
-* Other free template I've made: http://gettemplate.com
+* More free templates by Sergey: http://gettemplate.com
