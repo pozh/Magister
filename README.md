@@ -23,7 +23,7 @@ Bug tracker
 -----------
 
 Found a bug? Please create an issue here on GitHub! 
-https://github.com/Pozhilov/Magister/issues
+https://github.com/pozh/Magister/issues
 
 
 
